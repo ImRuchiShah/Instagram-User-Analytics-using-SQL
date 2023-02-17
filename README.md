@@ -1,4 +1,4 @@
-## Instagram-User-Analytics ##
+<h1 align=center>Instagram-User-Analytics </h1>
 
 ### Project Description: ###
 
